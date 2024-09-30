@@ -40,19 +40,6 @@ The dataset used contains information on layoffs across companies, including the
 - **Handling Missing Values**: Missing values in columns like `total_laid_off`, `percentage_laid_off`, and `funds_raised` were filled with 0 to avoid errors during analysis.
 - **Duplicate Entries**: The data contained duplicates where companies had multiple records across different dates. A clean dataset was created by aggregating total layoffs for each company.
 
-## Visualizations and Insights
-- **Top 10 Companies by Layoffs**: A bar chart showing the companies with the most layoffs.
-- **Year-wise Analysis**: Visualization of layoffs trends for specific years and countries.
-- **Industry-wise Analysis**: Identification of industries most affected by layoffs.
-
-## Running the Notebook
-To execute this analysis on your local machine:
-1. Install the required libraries: 
-    ```bash
-    pip install pandas numpy matplotlib seaborn plotly
-    ```
-2. Download the dataset and place it in the working directory.
-3. Run the notebook cells sequentially to reproduce the analysis and visualizations.
 
 ## Visualizations
 
