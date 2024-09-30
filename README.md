@@ -1,4 +1,4 @@
-# Layoffs Data Analysis - README
+# Layoffs Data Analysis
 
 ## Project Overview
 This notebook explores and analyzes layoffs data by performing various transformations and visualizations using **Pandas** and **Plotly**. The key insights derived from this analysis include identifying companies, locations, and industries most impacted by layoffs. Additionally, we investigate the relationship between funds raised and layoffs.
