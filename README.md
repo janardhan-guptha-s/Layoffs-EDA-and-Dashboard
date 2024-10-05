@@ -5,7 +5,7 @@ This notebook explores and analyzes layoffs data by performing various transform
 
 ## Key Observations
 1. **Top 10 companies that laid off the most employees**.
-2. **Top 3 companies that laid off the most employees year-wise**
+2. **Top 3 companies that laid off the most employees year-wise**.
 3. **Top 3 locations with the highest layoffs year-wise**.
 4. **Top 20 companies that laid off a specific percentage of their employees**.
 5. **Top 10 countries with the most layoffs**.
