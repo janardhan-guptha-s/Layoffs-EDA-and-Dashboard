@@ -14,7 +14,7 @@ This notebook explores and analyzes layoffs data by performing various transform
 8. **Stages of company development most impacted by layoffs**.
 9. **Industries with the most layoffs**.
 10. **Total layoffs year-wise**.
-11. **Year-wise layoffs by country**.
+11. **Year-wise layoffs by country**
 
 
 ## Dataset
